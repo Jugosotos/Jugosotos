@@ -11,3 +11,8 @@ Welcome to my GitHub page! I'm a passionate and creative developer specializing 
 🌐 Visit my [Linkedin](your-linkedin-url) / [Twitter](your-twitter-url) for more professional updates and insights into my projects.
 
 ✨ Let's innovate and build a decentralized future, together!
+
+### Skills
+
+![Solidity](https://img.shields.io/badge/Solidity-Expert-blue)
+![Ethereum](https://img.shields.io/badge/Ethereum-Expert-blue)
